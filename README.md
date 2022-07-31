@@ -4,4 +4,4 @@ A website that contains information about the latest weather forecast.
 
 Created using React JS and the API from <https://weatherapi.com>
 
-Demo : <https://weather.rizfurr.ml>
+Demo : <https://weathers.rizfurr.ml>
